@@ -202,7 +202,6 @@ void Finish()	// 게임 종료
 	cout << endl << "You solve the puzzle! Congratulations!" << endl;
 }
 
-
 int main()
 {
 	int size = InputSize();						// 1. Size input
