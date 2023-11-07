@@ -1,0 +1,13 @@
+﻿  NOTE.cpp
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(67,49): error C2248: 'Character::name': protected 멤버('Character' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(7): message : 'Character::name' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(5): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(90,35): error C2248: 'Character::name': protected 멤버('Character' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(7): message : 'Character::name' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(5): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(93,59): error C2248: 'Character::skills': protected 멤버('Character' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(9): message : 'Character::skills' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(5): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(97,58): error C2248: 'Character::skills': protected 멤버('Character' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(9): message : 'Character::skills' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\NOTE\NOTE.cpp(5): message : 'Character' 선언을 참조하십시오.

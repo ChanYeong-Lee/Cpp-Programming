@@ -1,0 +1,30 @@
+﻿  10.OOP_TRPG.cpp
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(87,11): error C2146: 구문 오류: ';'이(가) 'maxHp' 식별자 앞에 없습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(87,11): error C2065: 'maxHp': 선언되지 않은 식별자입니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(109,43): error C2280: 'Defender::Defender(void)': 삭제된 함수를 참조하려고 합니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(94): message : 컴파일러에서 여기에 'Defender::Defender'을(를) 생성했습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(94,1): message : 'Defender::Defender(void)': 기본 클래스 'Character'에 적절한 기본 생성자이(가) 없거나 오버로드 확인이 모호하므로 함수가 암시적으로 삭제되었습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(50): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(109,57): error C2280: 'Healer::Healer(void)': 삭제된 함수를 참조하려고 합니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(100): message : 컴파일러에서 여기에 'Healer::Healer'을(를) 생성했습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(100,2): message : 'Healer::Healer(void)': 기본 클래스 'Character'에 적절한 기본 생성자이(가) 없거나 오버로드 확인이 모호하므로 함수가 암시적으로 삭제되었습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(50): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(109,71): error C2280: 'Dealer::Dealer(void)': 삭제된 함수를 참조하려고 합니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(97): message : 컴파일러에서 여기에 'Dealer::Dealer'을(를) 생성했습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(97,2): message : 'Dealer::Dealer(void)': 기본 클래스 'Character'에 적절한 기본 생성자이(가) 없거나 오버로드 확인이 모호하므로 함수가 암시적으로 삭제되었습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(50): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(152,28): error C2039: 'SetName': 'Character'의 멤버가 아닙니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(50): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(155,28): error C2039: 'SetName': 'Character'의 멤버가 아닙니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(50): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(158,28): error C2039: 'SetName': 'Character'의 멤버가 아닙니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(50): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(159,53): error C2248: 'Character::name': protected 멤버('Character' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(56): message : 'Character::name' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(50): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(159,94): error C2248: 'Character::name': protected 멤버('Character' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(56): message : 'Character::name' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(50): message : 'Character' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(159,135): error C2248: 'Character::name': protected 멤버('Character' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(56): message : 'Character::name' 선언을 참조하십시오.
+C:\Users\플밍\source\repos\Programming\10.OOP_TRPG\10.OOP_TRPG.cpp(50): message : 'Character' 선언을 참조하십시오.

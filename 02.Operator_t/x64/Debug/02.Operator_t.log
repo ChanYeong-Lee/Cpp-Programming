@@ -1,0 +1,6 @@
+﻿  02.Operator_t.cpp
+C:\Users\플밍\source\repos\Programming\02.Operator_t\02.Operator_t.cpp(17,16): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\플밍\source\repos\Programming\02.Operator_t\02.Operator_t.cpp(18,16): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\플밍\source\repos\Programming\02.Operator_t\02.Operator_t.cpp(33,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\플밍\source\repos\Programming\02.Operator_t\02.Operator_t.cpp(43,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  02.Operator_t.vcxproj -> C:\Users\플밍\source\repos\Programming\x64\Debug\02.Operator_t.exe

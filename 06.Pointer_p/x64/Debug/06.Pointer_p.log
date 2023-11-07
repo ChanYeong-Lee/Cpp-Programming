@@ -1,0 +1,3 @@
+﻿  06.Pointer_p.cpp
+C:\Users\플밍\source\repos\Programming\06.Pointer_p\06.Pointer_p.cpp(59,7): warning C4101: 'ptr1' :참조되지 않은 지역 변수입니다.
+  06.Pointer_p.vcxproj -> C:\Users\플밍\source\repos\Programming\x64\Debug\06.Pointer_p.exe

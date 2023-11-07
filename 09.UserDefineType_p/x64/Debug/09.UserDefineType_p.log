@@ -1,0 +1,7 @@
+﻿  09.UserDefineType_p.cpp
+C:\Users\플밍\source\repos\Programming\09.UserDefineType_p\09.UserDefineType_p.cpp(230,10): warning C4101: 'timeValue' :참조되지 않은 지역 변수입니다.
+C:\Users\플밍\source\repos\Programming\09.UserDefineType_p\09.UserDefineType_p.cpp(227,11): warning C4101: 'uint16Value' :참조되지 않은 지역 변수입니다.
+C:\Users\플밍\source\repos\Programming\09.UserDefineType_p\09.UserDefineType_p.cpp(225,10): warning C4101: 'int8Value' :참조되지 않은 지역 변수입니다.
+C:\Users\플밍\source\repos\Programming\09.UserDefineType_p\09.UserDefineType_p.cpp(226,11): warning C4101: 'int32Value' :참조되지 않은 지역 변수입니다.
+C:\Users\플밍\source\repos\Programming\09.UserDefineType_p\09.UserDefineType_p.cpp(229,10): warning C4101: 'sizeValue' :참조되지 않은 지역 변수입니다.
+  09.UserDefineType_p.vcxproj -> C:\Users\플밍\source\repos\Programming\x64\Debug\09.UserDefineType_p.exe

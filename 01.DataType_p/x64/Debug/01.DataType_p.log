@@ -1,0 +1,7 @@
+﻿  01.DataType_p.cpp
+C:\Users\플밍\source\repos\Programming\01.DataType_p\01.DataType_p.cpp(43,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\플밍\source\repos\Programming\01.DataType_p\01.DataType_p.cpp(65,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\플밍\source\repos\Programming\01.DataType_p\01.DataType_p.cpp(66,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\플밍\source\repos\Programming\01.DataType_p\01.DataType_p.cpp(120,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\플밍\source\repos\Programming\01.DataType_p\01.DataType_p.cpp(155,20): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+  01.DataType_p.vcxproj -> C:\Users\플밍\source\repos\Programming\x64\Debug\01.DataType_p.exe
